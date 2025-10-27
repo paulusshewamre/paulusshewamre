@@ -1,11 +1,11 @@
 # 🌟 About Me:
 
-Hello! This is Tensaé Berhanu. I currently work on web development and machine learning.
+Hello! This is Paulus Shewamare. I currently work on web development and machine learning.
 
 ---
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulus-shewamare/)
 
 ---
 
@@ -27,9 +27,9 @@ Hello! This is Tensaé Berhanu. I currently work on web development and machine 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=paulusshewamre&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=paulusshewamre&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulusshewamre&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
